@@ -1,1 +1,2 @@
 # Bank_atm_management_project
+"This project provides a comprehensive overview of the core functionalities of banks and ATMs. It aims to simulate key banking operations such as account creation, deposits, withdrawals, balance inquiries, and fund transfers. Additionally, the project illustrates how ATMs interact with banking systems to offer convenient and secure financial services to customers. The goal is to offer a clear understanding of how modern banking systems operate and how ATMs support everyday banking transactions."
